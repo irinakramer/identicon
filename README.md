@@ -8,6 +8,11 @@ This is achieved by a series of type conversions which result in a 2D array
 with RGB values for each element.
 The image is generated based on this array.
 
+### Example:
+user input: **beetlejuice**, image: **beetlejuice.png**
+
+![Example image](/beetlejuice.png)
+
 ============
 
 ### Details:
