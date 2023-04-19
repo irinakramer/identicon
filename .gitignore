@@ -2,3 +2,4 @@
 *.png
 backup/
 .DS_Store
+!beetlejuice.png
