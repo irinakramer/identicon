@@ -1,0 +1,4 @@
+*.rtf
+*.png
+backup/
+.DS_Store
